@@ -4,7 +4,7 @@ public class PrintConsole {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hurray, the second Jenkins Job triggered");
+		System.out.println("Hurray, the second Jenkins Job triggered 1");
 
 	}
 
